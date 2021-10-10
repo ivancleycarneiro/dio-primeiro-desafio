@@ -1,0 +1,6 @@
+Link do Git bash - https://git-scm.com/downloads
+
+Git Bash é um terminal que facilita a comunicação do desenvolvimento local(pc) com o servidor(site github).
+
+
+
